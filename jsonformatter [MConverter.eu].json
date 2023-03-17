@@ -1,0 +1,4044 @@
+{
+  "type": "FeatureCollection",
+  "name": "delhi_metro_stations",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 0,
+        "B_MS_NM": "DHANSA STATION",
+        "B_MS_LINE": "LINE 9 - GREY LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9774035,
+          28.6118791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 1,
+        "B_MS_NM": "NAJAFGARH STATION",
+        "B_MS_LINE": "LINE 9 - GREY LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9868324,
+          28.6125656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 2,
+        "B_MS_NM": "NANGLI STATION",
+        "B_MS_LINE": "LINE 9 - GREY LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0103194,
+          28.6172514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 3,
+        "B_MS_NM": "DWARKA STATION",
+        "B_MS_LINE": "LINE 9 - GREY LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0223579,
+          28.6159266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 4,
+        "B_MS_NM": "BOTANICAL GARDEN STATION",
+        "B_MS_LINE": "LINE 8 - MAGENTA LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3341311,
+          28.5639341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 5,
+        "B_MS_NM": "SUKHDEV VIHAR STATION",
+        "B_MS_LINE": "LINE 8 - MAGENTA LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2750435,
+          28.5597608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 6,
+        "B_MS_NM": "RK PURAM STATION",
+        "B_MS_LINE": "LINE 8 - MAGENTA LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1854379,
+          28.5503458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 7,
+        "B_MS_NM": "TERMINAL-1 - IGI AIRPORT STATION",
+        "B_MS_LINE": "LINE 8 - MAGENTA LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1219473,
+          28.5650001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 8,
+        "B_MS_NM": "SHANKAR VIHAR STATION",
+        "B_MS_LINE": "LINE 8 - MAGENTA LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.140445,
+          28.5607797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 9,
+        "B_MS_NM": "VASANT VIHAR STATION",
+        "B_MS_LINE": "LINE 8 - MAGENTA LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1615003,
+          28.5579809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 10,
+        "B_MS_NM": "MUNIRKA STATION",
+        "B_MS_LINE": "LINE 8 - MAGENTA LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1744523,
+          28.5573556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 11,
+        "B_MS_NM": "IIT STATION",
+        "B_MS_LINE": "LINE 8 - MAGENTA LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.194531,
+          28.5468781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 12,
+        "B_MS_NM": "HAUZ STATION",
+        "B_MS_LINE": "LINE 8 - MAGENTA LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2054768,
+          28.5434361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 13,
+        "B_MS_NM": "PANCHSHEEL PARK STATION",
+        "B_MS_LINE": "LINE 8 - MAGENTA LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2211227,
+          28.5423863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 14,
+        "B_MS_NM": "CHIRAG DELHI STATION",
+        "B_MS_LINE": "LINE 8 - MAGENTA LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2310573,
+          28.5411702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 15,
+        "B_MS_NM": "GK STATION",
+        "B_MS_LINE": "LINE 8 - MAGENTA LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2385994,
+          28.5418434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 16,
+        "B_MS_NM": "NEHRU ENCLAVE STATION",
+        "B_MS_LINE": "LINE 8 - MAGENTA LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2511234,
+          28.545785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 17,
+        "B_MS_NM": "KALKAJI MANDIR STATION",
+        "B_MS_LINE": "LINE 8 - MAGENTA LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2558736,
+          28.5493734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 18,
+        "B_MS_NM": "OKHLA NSIC STATION",
+        "B_MS_LINE": "LINE 8 - MAGENTA LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2649034,
+          28.5546227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 19,
+        "B_MS_NM": "JAMIA MILIA ISLAMIA STATION",
+        "B_MS_LINE": "LINE 8 - MAGENTA LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2863897,
+          28.5629037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 20,
+        "B_MS_NM": "OKHLA VIHAR STATION",
+        "B_MS_LINE": "LINE 8 - MAGENTA LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.291898,
+          28.5611013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 21,
+        "B_MS_NM": "JASOLA VIHAR SHAHEEN BAGH STATION",
+        "B_MS_LINE": "LINE 8 - MAGENTA LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2967622,
+          28.5459887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 22,
+        "B_MS_NM": "KALINDI KUNJ STATION",
+        "B_MS_LINE": "LINE 8 - MAGENTA LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3101458,
+          28.5428418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 23,
+        "B_MS_NM": "OKHLA BIRD SANCTUARY STATION",
+        "B_MS_LINE": "LINE 8 - MAGENTA LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3215713,
+          28.5528754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 24,
+        "B_MS_NM": "JANAKPURI WEST STATION",
+        "B_MS_LINE": "LINE 8 - MAGENTA LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.078616,
+          28.6278906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 25,
+        "B_MS_NM": "DABRI MOR - JANAKPURI SOUTH STATION",
+        "B_MS_LINE": "LINE 8 - MAGENTA LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.085177,
+          28.61581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 26,
+        "B_MS_NM": "DASHRATH PURI STATION",
+        "B_MS_LINE": "LINE 8 - MAGENTA LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0825599,
+          28.6020746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 27,
+        "B_MS_NM": "PALAM STATION",
+        "B_MS_LINE": "LINE 8 - MAGENTA LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0831077,
+          28.5889948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 28,
+        "B_MS_NM": "SADAR BAZAR CANTONMENT STATION",
+        "B_MS_LINE": "LINE 8 - MAGENTA LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1113176,
+          28.5769772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 29,
+        "B_MS_NM": "LAJPAT NAGAR STATION",
+        "B_MS_LINE": "LINE 7 - PINK LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2379947,
+          28.569762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 30,
+        "B_MS_NM": "ASHRAM STATION",
+        "B_MS_LINE": "LINE 7 - PINK LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2584632,
+          28.5724857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 31,
+        "B_MS_NM": "MAYUR VIHAR PKT-I STATION",
+        "B_MS_LINE": "LINE 7 - PINK LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2984668,
+          28.6058073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 32,
+        "B_MS_NM": "JAFFARABAD STATION",
+        "B_MS_LINE": "LINE 7 - PINK LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2748386,
+          28.6828147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 33,
+        "B_MS_NM": "MAUJPUR - BABARPUR STATION",
+        "B_MS_LINE": "LINE 7 - PINK LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2795081,
+          28.6918515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 34,
+        "B_MS_NM": "GOKULPURI STATION",
+        "B_MS_LINE": "LINE 7 - PINK LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2861349,
+          28.7025548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 35,
+        "B_MS_NM": "JOHRI ENCLAVE STATION",
+        "B_MS_LINE": "LINE 7 - PINK LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2902018,
+          28.7126113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 36,
+        "B_MS_NM": "SHIV VIHAR STATION",
+        "B_MS_LINE": "LINE 7 - PINK LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.28939,
+          28.7217144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 37,
+        "B_MS_NM": "WELCOME STATION",
+        "B_MS_LINE": "LINE 7 - PINK LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2769864,
+          28.6724244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 38,
+        "B_MS_NM": "EAST AZAD NAGAR STATION",
+        "B_MS_LINE": "LINE 7 - PINK LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2847848,
+          28.6648372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 39,
+        "B_MS_NM": "KRISHNA NAGAR STATION",
+        "B_MS_LINE": "LINE 7 - PINK LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2900749,
+          28.6579614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 40,
+        "B_MS_NM": "KARKARDUMA COURT STATION",
+        "B_MS_LINE": "LINE 7 - PINK LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2957816,
+          28.6537083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 41,
+        "B_MS_NM": "KARKARDUMA STATION",
+        "B_MS_LINE": "LINE 7 - PINK LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3060488,
+          28.6492987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 42,
+        "B_MS_NM": "ANAND VIHAR ISBT STATION",
+        "B_MS_LINE": "LINE 7 - PINK LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3155643,
+          28.6469865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 43,
+        "B_MS_NM": "IP EXTENSION STATION",
+        "B_MS_LINE": "LINE 7 - PINK LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3107754,
+          28.6319226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 44,
+        "B_MS_NM": "MANDAWALI - VINOD NAGAR WEST STATION",
+        "B_MS_LINE": "LINE 7 - PINK LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3045162,
+          28.6249307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 45,
+        "B_MS_NM": "EAST VINOD NAGAR - MAYUR VIHAR PH-II STATION",
+        "B_MS_LINE": "LINE 7 - PINK LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3052924,
+          28.6200572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 46,
+        "B_MS_NM": "TRILOKPURI-SANJAY LAKE STATION",
+        "B_MS_LINE": "LINE 7 - PINK LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3088435,
+          28.6134472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 47,
+        "B_MS_NM": "MAYUR VIHAR PH-I STATION",
+        "B_MS_LINE": "LINE 7 - PINK LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2907535,
+          28.6036536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 48,
+        "B_MS_NM": "SARAI KALE KHAN NIZAMUDDIN STATION",
+        "B_MS_LINE": "LINE 7 - PINK LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2570294,
+          28.5893453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 49,
+        "B_MS_NM": "VINOBA PURI STATION",
+        "B_MS_LINE": "LINE 7 - PINK LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2497415,
+          28.5659327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 50,
+        "B_MS_NM": "MAJLIS PARK STATION",
+        "B_MS_LINE": "LINE 7 - PINK LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1819246,
+          28.7239125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 51,
+        "B_MS_NM": "SHALIMAR BAGH STATION",
+        "B_MS_LINE": "LINE 7 - PINK LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1655249,
+          28.7019355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 52,
+        "B_MS_NM": "NARAINA VIHAR STATION",
+        "B_MS_LINE": "LINE 7 - PINK LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1365737,
+          28.6238632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 53,
+        "B_MS_NM": "DELHI CANTONMENT STATION",
+        "B_MS_LINE": "LINE 7 - PINK LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.140383,
+          28.6086735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 54,
+        "B_MS_NM": "SIR M. VISHWESHWARAIAH MOTI BAGH STATION",
+        "B_MS_LINE": "LINE 7 - PINK LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1758327,
+          28.5783971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 55,
+        "B_MS_NM": "SAROJINI NAGAR STATION",
+        "B_MS_LINE": "LINE 7 - PINK LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1985522,
+          28.5757841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 56,
+        "B_MS_NM": "DILLI HAAT INA STATION",
+        "B_MS_LINE": "LINE 7 - PINK LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2087442,
+          28.5737379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 57,
+        "B_MS_NM": "SOUTH EXTENSION STATION",
+        "B_MS_LINE": "LINE 7 - PINK LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2200467,
+          28.568644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 58,
+        "B_MS_NM": "BHIKAJI CAMA PLACE STATION",
+        "B_MS_LINE": "LINE 7 - PINK LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1878559,
+          28.5700965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 59,
+        "B_MS_NM": "DURGABAI DESHMUKH SOUTH CAMPUS STATION",
+        "B_MS_LINE": "LINE 7 - PINK LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.169463,
+          28.5893081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 60,
+        "B_MS_NM": "MAYAPURI STATION",
+        "B_MS_LINE": "LINE 7 - PINK LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1295874,
+          28.6371453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 61,
+        "B_MS_NM": "RAJOURI GARDEN STATION",
+        "B_MS_LINE": "LINE 7 - PINK LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.123864,
+          28.650398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 62,
+        "B_MS_NM": "ESI HOSPITAL STATION",
+        "B_MS_LINE": "LINE 7 - PINK LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1273415,
+          28.6581742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 63,
+        "B_MS_NM": "PUNJABI BAGH (W) STATION",
+        "B_MS_LINE": "LINE 7 - PINK LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1391867,
+          28.6727782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 64,
+        "B_MS_NM": "SHAKURPUR STATION",
+        "B_MS_LINE": "LINE 7 - PINK LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1495236,
+          28.6858053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 65,
+        "B_MS_NM": "NETAJI SUBHASH PLACE STATION",
+        "B_MS_LINE": "LINE 7 - PINK LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1537475,
+          28.6944466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 66,
+        "B_MS_NM": "AZAPUR STATION",
+        "B_MS_LINE": "LINE 7 - PINK LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1813862,
+          28.7057088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 67,
+        "B_MS_NM": "KASHMERE GATE STATION",
+        "B_MS_LINE": "LINE 6 - VIOLET LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2280985,
+          28.6688332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 68,
+        "B_MS_NM": "LAL QUILA STATION",
+        "B_MS_LINE": "LINE 6 - VIOLET LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2368244,
+          28.6577072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 69,
+        "B_MS_NM": "JAMA MASJID STATION",
+        "B_MS_LINE": "LINE 6 - VIOLET LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2378079,
+          28.6502736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 70,
+        "B_MS_NM": "CENTRAL SECRETARIAT STATION",
+        "B_MS_LINE": "LINE 6 - VIOLET LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2126343,
+          28.6156958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 71,
+        "B_MS_NM": "JLN STADIUM STATION",
+        "B_MS_LINE": "LINE 6 - VIOLET LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2334283,
+          28.5893724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 72,
+        "B_MS_NM": "JANGPURA STATION",
+        "B_MS_LINE": "LINE 6 - VIOLET LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2389634,
+          28.5835713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 73,
+        "B_MS_NM": "LAJPAT NAGAR STATION",
+        "B_MS_LINE": "LINE 6 - VIOLET LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2363992,
+          28.5705348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 74,
+        "B_MS_NM": "MOOLCHAND STATION",
+        "B_MS_LINE": "LINE 6 - VIOLET LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2341847,
+          28.5640016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 75,
+        "B_MS_NM": "KAILASH COLONY STATION",
+        "B_MS_LINE": "LINE 6 - VIOLET LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2419497,
+          28.5553102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 76,
+        "B_MS_NM": "NEHRU PLACE STATION",
+        "B_MS_LINE": "LINE 6 - VIOLET LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2517379,
+          28.5513998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 77,
+        "B_MS_NM": "KALKAJI MANDIR STATION",
+        "B_MS_LINE": "LINE 6 - VIOLET LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2590659,
+          28.5495279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 78,
+        "B_MS_NM": "GOVIND PURI STATION",
+        "B_MS_LINE": "LINE 6 - VIOLET LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2642722,
+          28.5444848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 79,
+        "B_MS_NM": "HARKESH NAGAR OKHLA STATION",
+        "B_MS_LINE": "LINE 6 - VIOLET LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2750775,
+          28.5429388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 80,
+        "B_MS_NM": "JASOLA APOLLO STATION",
+        "B_MS_LINE": "LINE 6 - VIOLET LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2832863,
+          28.5382634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 81,
+        "B_MS_NM": "SARITA VIHAR STATION",
+        "B_MS_LINE": "LINE 6 - VIOLET LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2883082,
+          28.5287395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 82,
+        "B_MS_NM": "TUGHLAKABAD STATION",
+        "B_MS_LINE": "LINE 6 - VIOLET LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2992253,
+          28.5024414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 83,
+        "B_MS_NM": "BADARPUR BORDER STATION",
+        "B_MS_LINE": "LINE 6 - VIOLET LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3029513,
+          28.4931827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 84,
+        "B_MS_NM": "SARAI STATION",
+        "B_MS_LINE": "LINE 6 - VIOLET LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3050502,
+          28.4779718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 85,
+        "B_MS_NM": "SECTOR-28 STATION",
+        "B_MS_LINE": "LINE 6 - VIOLET LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.308864,
+          28.4382073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 86,
+        "B_MS_NM": "OLD FARIDABAD STATION",
+        "B_MS_LINE": "LINE 6 - VIOLET LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3112288,
+          28.4105451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 87,
+        "B_MS_NM": "NEELAM CHOWK AJRONDA STATION",
+        "B_MS_LINE": "LINE 6 - VIOLET LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3122098,
+          28.3976948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 88,
+        "B_MS_NM": "BATA CHOWK STATION",
+        "B_MS_LINE": "LINE 6 - VIOLET LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3132395,
+          28.3859283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 89,
+        "B_MS_NM": "ESCORTS MUJESAR STATION",
+        "B_MS_LINE": "LINE 6 - VIOLET LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3147329,
+          28.3700451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 90,
+        "B_MS_NM": "SANT SURDAS (SIHI) STATION",
+        "B_MS_LINE": "LINE 6 - VIOLET LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3161392,
+          28.3546745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 91,
+        "B_MS_NM": "RAJA NAHAR SINGH STATION",
+        "B_MS_LINE": "LINE 6 - VIOLET LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3164218,
+          28.3399001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 92,
+        "B_MS_NM": "BADKAL MOR STATION",
+        "B_MS_LINE": "LINE 6 - VIOLET LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3102073,
+          28.4227744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 93,
+        "B_MS_NM": "MEWALA MAHARAJAPUR STATION",
+        "B_MS_LINE": "LINE 6 - VIOLET LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3079792,
+          28.4484786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 94,
+        "B_MS_NM": "NHPC CHOWK STATION",
+        "B_MS_LINE": "LINE 6 - VIOLET LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3072282,
+          28.4576944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 95,
+        "B_MS_NM": "MOHAN ESTATE STATION",
+        "B_MS_LINE": "LINE 6 - VIOLET LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2945781,
+          28.5196863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 96,
+        "B_MS_NM": "KHAN MARKET STATION",
+        "B_MS_LINE": "LINE 6 - VIOLET LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2284306,
+          28.6025773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 97,
+        "B_MS_NM": "JANPATH STATION",
+        "B_MS_LINE": "LINE 6 - VIOLET LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2192869,
+          28.6251018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 98,
+        "B_MS_NM": "MANDI HOUSE STATION",
+        "B_MS_LINE": "LINE 6 - VIOLET LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.234082,
+          28.6253132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 99,
+        "B_MS_NM": "ITO STATION",
+        "B_MS_LINE": "LINE 6 - VIOLET LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2411569,
+          28.62869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 100,
+        "B_MS_NM": "DELHI GATE STATION",
+        "B_MS_LINE": "LINE 6 - VIOLET LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2405169,
+          28.6393166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 101,
+        "B_MS_NM": "BRIG. HOSHIAR SINGH STATION",
+        "B_MS_LINE": "LINE 5 - GREEN LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.919159,
+          28.6974758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 102,
+        "B_MS_NM": "BAHDURGARH CITY STATION",
+        "B_MS_LINE": "LINE 5 - GREEN LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9353986,
+          28.6907438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 103,
+        "B_MS_NM": "TIKRI BORDER STATION",
+        "B_MS_LINE": "LINE 5 - GREEN LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9640148,
+          28.6880058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 104,
+        "B_MS_NM": "MUNDKA STATION",
+        "B_MS_LINE": "LINE 5 - GREEN LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0305118,
+          28.6823758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 105,
+        "B_MS_NM": "RAJDHANI PARK STATION",
+        "B_MS_LINE": "LINE 5 - GREEN LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0439236,
+          28.6822432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 106,
+        "B_MS_NM": "NANGLOI RAILWAY STATION",
+        "B_MS_LINE": "LINE 5 - GREEN LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0562994,
+          28.6821624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 107,
+        "B_MS_NM": "NANGLOI STATION",
+        "B_MS_LINE": "LINE 5 - GREEN LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0648461,
+          28.6824184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 108,
+        "B_MS_NM": "MAHARAJA SURAJMAL STADIUM STATION",
+        "B_MS_LINE": "LINE 5 - GREEN LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0740278,
+          28.6818286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 109,
+        "B_MS_NM": "UDYOG NAGAR STATION",
+        "B_MS_LINE": "LINE 5 - GREEN LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0808267,
+          28.6810796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 110,
+        "B_MS_NM": "PEERAGARHI STATION",
+        "B_MS_LINE": "LINE 5 - GREEN LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0927202,
+          28.6797471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 111,
+        "B_MS_NM": "PASCHIM VIHAR WEST STATION",
+        "B_MS_LINE": "LINE 5 - GREEN LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1021732,
+          28.6786204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 112,
+        "B_MS_NM": "PASCHIM VIHAR EAST STATION",
+        "B_MS_LINE": "LINE 5 - GREEN LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1124501,
+          28.6772892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 113,
+        "B_MS_NM": "MADIPUR STATION",
+        "B_MS_LINE": "LINE 5 - GREEN LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1196548,
+          28.6763601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 114,
+        "B_MS_NM": "SHIVAJI PARK STATION",
+        "B_MS_LINE": "LINE 5 - GREEN LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1305966,
+          28.6749477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 115,
+        "B_MS_NM": "PUNJABI BAGH STATION",
+        "B_MS_LINE": "LINE 5 - GREEN LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1460878,
+          28.6729298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 116,
+        "B_MS_NM": "ASHOK PARK MAIN STATION",
+        "B_MS_LINE": "LINE 5 - GREEN LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1552307,
+          28.6715936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 117,
+        "B_MS_NM": "KIRTI NAGAR STATION",
+        "B_MS_LINE": "LINE 5 - GREEN LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1512825,
+          28.6545477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 118,
+        "B_MS_NM": "SATGURU RAM SINGH MARG",
+        "B_MS_LINE": "LINE 5 - GREEN LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1576507,
+          28.6620856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 119,
+        "B_MS_NM": "INDERLOK STATION",
+        "B_MS_LINE": "LINE 5 - GREEN LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1698056,
+          28.6731941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 120,
+        "B_MS_NM": "MUNDKA INDUSTRIAL AREA STATION",
+        "B_MS_LINE": "LINE 5 - GREEN LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0171324,
+          28.683368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 121,
+        "B_MS_NM": "GHEVRA STATION",
+        "B_MS_LINE": "LINE 5 - GREEN LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9960402,
+          28.6852146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 122,
+        "B_MS_NM": "TIKRI KALAN STATION",
+        "B_MS_LINE": "LINE 5 - GREEN LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9772035,
+          28.6868526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 123,
+        "B_MS_NM": "PANDIT SHREE RAM SHARMA STATION",
+        "B_MS_LINE": "LINE 5 - GREEN LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9512726,
+          28.6892495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 124,
+        "B_MS_NM": "LAXMI NAGAR STATION",
+        "B_MS_LINE": "LINE 4 - BLUE LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2773599,
+          28.6305033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 125,
+        "B_MS_NM": "NIRMAN VIHAR STATION",
+        "B_MS_LINE": "LINE 4 - BLUE LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2866833,
+          28.6365612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 126,
+        "B_MS_NM": "VIASHALI STATION",
+        "B_MS_LINE": "LINE 4 - BLUE LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3394693,
+          28.6500434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 127,
+        "B_MS_NM": "KUASHAMBI STATION",
+        "B_MS_LINE": "LINE 4 - BLUE LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3242882,
+          28.6455139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 128,
+        "B_MS_NM": "ANAND VIHAR ISBT STATION",
+        "B_MS_LINE": "LINE 4 - BLUE LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3157493,
+          28.6471126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 129,
+        "B_MS_NM": "KARKARDUMA STATION",
+        "B_MS_LINE": "LINE 4 - BLUE LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3054947,
+          28.6484258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 130,
+        "B_MS_NM": "PREET VIHAR STATION",
+        "B_MS_LINE": "LINE 4 - BLUE LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2953132,
+          28.6415046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 131,
+        "B_MS_NM": "DWARKA SEC-21 STATION",
+        "B_MS_LINE": "LINE 3 - BLUE LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.058204,
+          28.5521271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 132,
+        "B_MS_NM": "DWARKA SEC-9 STATION",
+        "B_MS_LINE": "LINE 3 - BLUE LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0652617,
+          28.5743026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 133,
+        "B_MS_NM": "DWARKA SEC-11 STATION",
+        "B_MS_LINE": "LINE 3 - BLUE LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0493868,
+          28.5864953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 134,
+        "B_MS_NM": "DWARKA SEC-12 STATION",
+        "B_MS_LINE": "LINE 3 - BLUE LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0406753,
+          28.5922664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 135,
+        "B_MS_NM": "DWARKA SEC-13 STATION",
+        "B_MS_LINE": "LINE 3 - BLUE LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0334124,
+          28.5971272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 136,
+        "B_MS_NM": "DWARKA SEC-14 STATION",
+        "B_MS_LINE": "LINE 3 - BLUE LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0259676,
+          28.6022397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 137,
+        "B_MS_NM": "JANAKPURI EAST STATION",
+        "B_MS_LINE": "LINE 3 - BLUE LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0866097,
+          28.6330609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 138,
+        "B_MS_NM": "TAGORE GARDEN STATION",
+        "B_MS_LINE": "LINE 3 - BLUE LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1127855,
+          28.6437816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 139,
+        "B_MS_NM": "RAJOURI GARDEN STATION",
+        "B_MS_LINE": "LINE 3 - BLUE LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1227366,
+          28.6491254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 140,
+        "B_MS_NM": "JHANDEWALAN STATION",
+        "B_MS_LINE": "LINE 3 - BLUE LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1998389,
+          28.6443214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 141,
+        "B_MS_NM": "NEW ASHOK NAGAR STATION",
+        "B_MS_LINE": "LINE 3 - BLUE LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3018638,
+          28.589082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 142,
+        "B_MS_NM": "NOIDA SEC-15 STATION",
+        "B_MS_LINE": "LINE 3 - BLUE LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3115117,
+          28.5851651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 143,
+        "B_MS_NM": "NOIDA CITY CENTER STATION",
+        "B_MS_LINE": "LINE 3 - BLUE LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3560548,
+          28.5746702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 144,
+        "B_MS_NM": "NOIDA SEC-34 STATION",
+        "B_MS_LINE": "LINE 3 - BLUE LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3634907,
+          28.5801836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 145,
+        "B_MS_NM": "NOIDA SEC-52 STATION",
+        "B_MS_LINE": "LINE 3 - BLUE LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3724647,
+          28.5866885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 146,
+        "B_MS_NM": "NOIDA SEC-61 STATION",
+        "B_MS_LINE": "LINE 3 - BLUE LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3723321,
+          28.5976787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 147,
+        "B_MS_NM": "NOIDA SEC-59 STATION",
+        "B_MS_LINE": "LINE 3 - BLUE LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3727638,
+          28.6065709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 148,
+        "B_MS_NM": "NOIDA SEC-62 STATION",
+        "B_MS_LINE": "LINE 3 - BLUE LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3736312,
+          28.6168412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 149,
+        "B_MS_NM": "NOIDA ELECTRONIC CITY STATION",
+        "B_MS_LINE": "LINE 3 - BLUE LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3748184,
+          28.6274538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 150,
+        "B_MS_NM": "GOLF COURSE STATION",
+        "B_MS_LINE": "LINE 3 - BLUE LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3459787,
+          28.5671784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 151,
+        "B_MS_NM": "BOTANICAL GARDEN STATION",
+        "B_MS_LINE": "LINE 3 - BLUE LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3343428,
+          28.5639765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 152,
+        "B_MS_NM": "NOIDA SEC-18 STATION",
+        "B_MS_LINE": "LINE 3 - BLUE LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3261188,
+          28.5707571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 153,
+        "B_MS_NM": "NOIDA SEC-16 STATION",
+        "B_MS_LINE": "LINE 3 - BLUE LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3175863,
+          28.5783805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 154,
+        "B_MS_NM": "MAYUR VIHAR EXTENSION STATION",
+        "B_MS_LINE": "LINE 3 - BLUE LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2946312,
+          28.5941766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 155,
+        "B_MS_NM": "MAYUR VIHAR PH-I STATION",
+        "B_MS_LINE": "LINE 3 - BLUE LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2893959,
+          28.6043515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 156,
+        "B_MS_NM": "AKSHARDHAM STATION",
+        "B_MS_LINE": "LINE 3 - BLUE LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2792829,
+          28.6180191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 157,
+        "B_MS_NM": "YAMUNA BANK STATION",
+        "B_MS_LINE": "LINE 3 - BLUE LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2681174,
+          28.6227972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 158,
+        "B_MS_NM": "INDRAPRASTHA STATION",
+        "B_MS_LINE": "LINE 3 - BLUE LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2496662,
+          28.6204892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 159,
+        "B_MS_NM": "SUPREME COURT STATION",
+        "B_MS_LINE": "LINE 3 - BLUE LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2425117,
+          28.6233525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 160,
+        "B_MS_NM": "MANDI HOUSE STATION",
+        "B_MS_LINE": "LINE 3 - BLUE LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2341127,
+          28.6258309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 161,
+        "B_MS_NM": "BARAKHAMBA STATION",
+        "B_MS_LINE": "LINE 3 - BLUE LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2245477,
+          28.6299778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 162,
+        "B_MS_NM": "RAJIV CHOWK STATION",
+        "B_MS_LINE": "LINE 2 - YELLOW LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2195753,
+          28.6329753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 163,
+        "B_MS_NM": "RK ASHRAM STATION",
+        "B_MS_LINE": "LINE 3 - BLUE LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2086679,
+          28.6391917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 164,
+        "B_MS_NM": "KAROL BAGH STATION",
+        "B_MS_LINE": "LINE 3 - BLUE LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1884686,
+          28.6440006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 165,
+        "B_MS_NM": "RAJENDRA PLACE STATION",
+        "B_MS_LINE": "LINE 3 - BLUE LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1779295,
+          28.6424438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 166,
+        "B_MS_NM": "PATEL NAGAR STATION",
+        "B_MS_LINE": "LINE 3 - BLUE LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1692729,
+          28.6451122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 167,
+        "B_MS_NM": "SHADIPUR STATION",
+        "B_MS_LINE": "LINE 3 - BLUE LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1583175,
+          28.6515933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 168,
+        "B_MS_NM": "KIRTI NAGAR STATION",
+        "B_MS_LINE": "LINE 3 - BLUE LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1506329,
+          28.655808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 169,
+        "B_MS_NM": "MOTI NAGAR STATION",
+        "B_MS_LINE": "LINE 3 - BLUE LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1424542,
+          28.6578406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 170,
+        "B_MS_NM": "RAMESH NAGAR STATION",
+        "B_MS_LINE": "LINE 3 - BLUE LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1315449,
+          28.6527419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 171,
+        "B_MS_NM": "SUBHASH NAGAR STATION",
+        "B_MS_LINE": "LINE 3 - BLUE LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1049005,
+          28.6403744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 172,
+        "B_MS_NM": "TILAK NAGAR STATION",
+        "B_MS_LINE": "LINE 3 - BLUE LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0963845,
+          28.63656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 173,
+        "B_MS_NM": "JANAKPURI WEST STATION",
+        "B_MS_LINE": "LINE 3 - BLUE LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.077853,
+          28.6295284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 174,
+        "B_MS_NM": "UTTAM NAGAR EAST STATION",
+        "B_MS_LINE": "LINE 3 - BLUE LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0652,
+          28.6247858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 175,
+        "B_MS_NM": "UTTAM NAGAR WEST STATION",
+        "B_MS_LINE": "LINE 3 - BLUE LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0556687,
+          28.6217215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 176,
+        "B_MS_NM": "NAWADA STATION",
+        "B_MS_LINE": "LINE 3 - BLUE LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0450499,
+          28.6202423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 177,
+        "B_MS_NM": "DWARKA MOR STATION",
+        "B_MS_LINE": "LINE 3 - BLUE LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0332496,
+          28.6193184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 178,
+        "B_MS_NM": "DWARKA STATION",
+        "B_MS_LINE": "LINE 3 - BLUE LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.022627,
+          28.6148606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 179,
+        "B_MS_NM": "DWARKA SEC-10 STATION",
+        "B_MS_LINE": "LINE 3 - BLUE LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0574097,
+          28.581134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 180,
+        "B_MS_NM": "DWARKA SEC-8 STATION",
+        "B_MS_LINE": "LINE 3 - BLUE LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0670037,
+          28.5656931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 181,
+        "B_MS_NM": "IFFCO CHOWK STATION",
+        "B_MS_LINE": "LINE 2 - YELLOW LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0724165,
+          28.4720964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 182,
+        "B_MS_NM": "HUDA CITY CENTER STATION",
+        "B_MS_LINE": "LINE 2 - YELLOW LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0724506,
+          28.4591714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 183,
+        "B_MS_NM": "MG ROAD STATION",
+        "B_MS_LINE": "LINE 2 - YELLOW LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.079856,
+          28.4795824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 184,
+        "B_MS_NM": "SIKANDERPUR STATION",
+        "B_MS_LINE": "LINE 2 - YELLOW LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0929252,
+          28.4813015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 185,
+        "B_MS_NM": "GURU DRONACHARYA STATION",
+        "B_MS_LINE": "LINE 2 - YELLOW LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1021212,
+          28.4820406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 186,
+        "B_MS_NM": "ARJANGARH STATION",
+        "B_MS_LINE": "LINE 2 - YELLOW LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1257265,
+          28.4807081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 187,
+        "B_MS_NM": "GHITORNI STATION",
+        "B_MS_LINE": "LINE 2 - YELLOW LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1491126,
+          28.4938325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 188,
+        "B_MS_NM": "SULTANPUR STATION",
+        "B_MS_LINE": "LINE 2 - YELLOW LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1613172,
+          28.4991923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 189,
+        "B_MS_NM": "CHHATTARPUR STATION",
+        "B_MS_LINE": "LINE 2 - YELLOW LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1750296,
+          28.5067749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 190,
+        "B_MS_NM": "QUTUB MINAR STATION",
+        "B_MS_LINE": "LINE 2 - YELLOW LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1863194,
+          28.5129806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 191,
+        "B_MS_NM": "SAKET STATION",
+        "B_MS_LINE": "LINE 2 - YELLOW LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2023682,
+          28.5211489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 192,
+        "B_MS_NM": "MALVIYA NAGAR STATION",
+        "B_MS_LINE": "LINE 2 - YELLOW LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2050276,
+          28.5289412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 193,
+        "B_MS_NM": "HAUZ KHAS STATION",
+        "B_MS_LINE": "LINE 2 - YELLOW LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2069025,
+          28.5442544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 194,
+        "B_MS_NM": "GREEN PARK STATION",
+        "B_MS_LINE": "LINE 2 - YELLOW LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2069633,
+          28.5587687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 195,
+        "B_MS_NM": "AIIMS STATION",
+        "B_MS_LINE": "LINE 2 - YELLOW LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2078667,
+          28.5677004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 196,
+        "B_MS_NM": "INA STATION",
+        "B_MS_LINE": "LINE 2 - YELLOW LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2092768,
+          28.5749046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 197,
+        "B_MS_NM": "JOR BAGH STATION",
+        "B_MS_LINE": "LINE 2 - YELLOW LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2125255,
+          28.5859283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 198,
+        "B_MS_NM": "LOK KALYAN MARG STATION",
+        "B_MS_LINE": "LINE 2 - YELLOW LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2113204,
+          28.5973969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 199,
+        "B_MS_NM": "UDYOG BHAWAN STATION",
+        "B_MS_LINE": "LINE 2 - YELLOW LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2118047,
+          28.6105339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 200,
+        "B_MS_NM": "CENTRAL SECRETARIAT STATION",
+        "B_MS_LINE": "LINE 2 - YELLOW LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2122083,
+          28.6161063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 201,
+        "B_MS_NM": "PATEL NAGAR STATION",
+        "B_MS_LINE": "LINE 2 - YELLOW LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2142526,
+          28.6230582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 202,
+        "B_MS_NM": "NEW DELHI STATION",
+        "B_MS_LINE": "LINE 2 - YELLOW LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2227452,
+          28.6436668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 203,
+        "B_MS_NM": "CHANDNI CHOWK STATION",
+        "B_MS_LINE": "LINE 2 - YELLOW LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2302626,
+          28.6588285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 204,
+        "B_MS_NM": "KASHMERE GATE STATION",
+        "B_MS_LINE": "LINE 2 - YELLOW LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2274961,
+          28.6686429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 205,
+        "B_MS_NM": "CIVIL LINES STATION",
+        "B_MS_LINE": "LINE 2 - YELLOW LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2246342,
+          28.6778822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 206,
+        "B_MS_NM": "VIDHAN SABHA STATION",
+        "B_MS_LINE": "LINE 2 - YELLOW LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2215658,
+          28.6873409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 207,
+        "B_MS_NM": "VISHWAVIDYALAYA STATION",
+        "B_MS_LINE": "LINE 2 - YELLOW LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2145234,
+          28.6950955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 208,
+        "B_MS_NM": "GURU TEG BAHADUR NAGAR STATION",
+        "B_MS_LINE": "LINE 2 - YELLOW LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2056944,
+          28.6984244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 209,
+        "B_MS_NM": "MODEL TOWN STATION",
+        "B_MS_LINE": "LINE 2 - YELLOW LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1936996,
+          28.7028784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 210,
+        "B_MS_NM": "AZAPUR STATION",
+        "B_MS_LINE": "LINE 2 - YELLOW LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1805131,
+          28.7070292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 211,
+        "B_MS_NM": "ADARSH NAGAR STATION",
+        "B_MS_LINE": "LINE 2 - YELLOW LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1704661,
+          28.7165375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 212,
+        "B_MS_NM": "JAHANGIRPURI STATION",
+        "B_MS_LINE": "LINE 2 - YELLOW LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1626672,
+          28.7259731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 213,
+        "B_MS_NM": "HAIDERPUR BADLI STATION",
+        "B_MS_LINE": "LINE 2 - YELLOW LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1493332,
+          28.7300185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 214,
+        "B_MS_NM": "ROHINI SEC-18 STATION",
+        "B_MS_LINE": "LINE 2 - YELLOW LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1397321,
+          28.738257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 215,
+        "B_MS_NM": "CHAWRI BAZAR STATION",
+        "B_MS_LINE": "LINE 2 - YELLOW LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2260956,
+          28.6485023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 216,
+        "B_MS_NM": "NETAJI SUBHASH PLACE STATION",
+        "B_MS_LINE": "LINE 1 - RED LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1525896,
+          28.6960237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 217,
+        "B_MS_NM": "SHYAM PARK STATION",
+        "B_MS_LINE": "LINE 1 - RED LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3708237,
+          28.6781858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 218,
+        "B_MS_NM": "MOHAN NAGAR STATION",
+        "B_MS_LINE": "LINE 1 - RED LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3839687,
+          28.6785849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 219,
+        "B_MS_NM": "ARTHLA STATION",
+        "B_MS_LINE": "LINE 1 - RED LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3919411,
+          28.677032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 220,
+        "B_MS_NM": "HINDON RIVER STATION",
+        "B_MS_LINE": "LINE 1 - RED LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.406553,
+          28.6733436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 221,
+        "B_MS_NM": "NEW BUS ADDA STATION",
+        "B_MS_LINE": "LINE 1 - RED LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4158595,
+          28.670363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 222,
+        "B_MS_NM": "MAJOR MOHIT SHARMA RAJENDRA NAGAR STATION",
+        "B_MS_LINE": "LINE 1 - RED LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3585921,
+          28.67765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 223,
+        "B_MS_NM": "RAJ BAGH STATION",
+        "B_MS_LINE": "LINE 1 - RED LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3467394,
+          28.6769947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 224,
+        "B_MS_NM": "SHAHEED NAGAR STATION",
+        "B_MS_LINE": "LINE 1 - RED LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.333775,
+          28.6765163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 225,
+        "B_MS_NM": "DILSHAD GARDEN STATION",
+        "B_MS_LINE": "LINE 1 - RED LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.321416,
+          28.6758977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 226,
+        "B_MS_NM": "JHILMIL STATION",
+        "B_MS_LINE": "LINE 1 - RED LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3124081,
+          28.6757709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 227,
+        "B_MS_NM": "MANSAROVAR PARK STATION",
+        "B_MS_LINE": "LINE 1 - RED LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3010417,
+          28.6753957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 228,
+        "B_MS_NM": "SHAHDARA STATION",
+        "B_MS_LINE": "LINE 1 - RED LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2898654,
+          28.6734903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 229,
+        "B_MS_NM": "WELCOME STATION",
+        "B_MS_LINE": "LINE 1 - RED LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2775389,
+          28.6717853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 230,
+        "B_MS_NM": "SEELAMPUR STATION",
+        "B_MS_LINE": "LINE 1 - RED LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2668174,
+          28.6699165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 231,
+        "B_MS_NM": "SHAHSTRI PARK STATION",
+        "B_MS_LINE": "LINE 1 - RED LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2503247,
+          28.6684738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 232,
+        "B_MS_NM": "KASHMERE GATE STATION",
+        "B_MS_LINE": "LINE 1 - RED LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2282216,
+          28.6675734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 233,
+        "B_MS_NM": "TIS HAZARI STATION",
+        "B_MS_LINE": "LINE 1 - RED LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2165208,
+          28.6670451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 234,
+        "B_MS_NM": "PULBANGASH STATION",
+        "B_MS_LINE": "LINE 1 - RED LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2073531,
+          28.6663998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 235,
+        "B_MS_NM": "PRATAP NAGAR STATION",
+        "B_MS_LINE": "LINE 1 - RED LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.198984,
+          28.6666541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 236,
+        "B_MS_NM": "SHASTRI NAGAR STATION",
+        "B_MS_LINE": "LINE 1 - RED LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1821244,
+          28.669994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 237,
+        "B_MS_NM": "INDERLOK STATION",
+        "B_MS_LINE": "LINE 1 - RED LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.170304,
+          28.6735145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 238,
+        "B_MS_NM": "KANHAIYA NAGAR STATION",
+        "B_MS_LINE": "LINE 1 - RED LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1647596,
+          28.682437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 239,
+        "B_MS_NM": "KESHAV PURAM STATION",
+        "B_MS_LINE": "LINE 1 - RED LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1616849,
+          28.6887975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 240,
+        "B_MS_NM": "KOHAT ENCLAVE STATION",
+        "B_MS_LINE": "LINE 1 - RED LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.140653,
+          28.6979911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 241,
+        "B_MS_NM": "PITAMPURA STATION",
+        "B_MS_LINE": "LINE 1 - RED LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1322952,
+          28.7031746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 242,
+        "B_MS_NM": "ROHINI EAST STATION",
+        "B_MS_LINE": "LINE 1 - RED LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1259876,
+          28.7076402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 243,
+        "B_MS_NM": "ROHINI WEST STATION",
+        "B_MS_LINE": "LINE 1 - RED LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1155061,
+          28.7148873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 244,
+        "B_MS_NM": "RITHALA STATION",
+        "B_MS_LINE": "LINE 1 - RED LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1072713,
+          28.7207528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 245,
+        "B_MS_NM": "INDIA INTERNATIONAL CONVENTION CENTRE (IICC)",
+        "B_MS_LINE": "ORANGE LINE-AIRPORT EXPRESS",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0451304,
+          28.5509757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 246,
+        "B_MS_NM": "NEW DELHI STATION",
+        "B_MS_LINE": "ORANGE LINE-AIRPORT EXPRESS",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2237293,
+          28.6423798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 247,
+        "B_MS_NM": "AIRPORT (T-3) STATION",
+        "B_MS_LINE": "ORANGE LINE-AIRPORT EXPRESS",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.086837,
+          28.5571835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 248,
+        "B_MS_NM": "DELHI AEROCITY STATION",
+        "B_MS_LINE": "ORANGE LINE-AIRPORT EXPRESS",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1207448,
+          28.5488668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 249,
+        "B_MS_NM": "DHAULA KUAN STATION",
+        "B_MS_LINE": "ORANGE LINE-AIRPORT EXPRESS",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1616597,
+          28.5918873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 250,
+        "B_MS_NM": "SHIVAJI STADIUM STATION",
+        "B_MS_LINE": "ORANGE LINE-AIRPORT EXPRESS",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.211682,
+          28.6289755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "FID": 251,
+        "B_MS_NM": "SAMAYPUR BADLI STATION",
+        "B_MS_LINE": "LINE 2 - YELLOW LINE",
+        "D_SOURCE": "01-07-2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1381351,
+          28.7447387
+        ]
+      }
+    }
+  ]
+}
